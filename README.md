@@ -1,6 +1,6 @@
 # FCC Piano
 
-This is a project about learning web designing by building a piano
+This is a project about learning web designing by building a piano.
 
 ![screenshot](app_screenshot.png)
 
